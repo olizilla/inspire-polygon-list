@@ -25,3 +25,5 @@ From the list you could then use `wget` or similar to download them all.
 wget $(inspire-polygon-list)
 ```
 
+If you're a fan of copy'n'pasting, then https://github.com/olizilla/inspire-polygon-list/blob/master/urls.txt
+might be what you're after.
