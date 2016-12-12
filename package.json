@@ -1,7 +1,7 @@
 {
   "name": "inspire-polygon-list",
   "version": "1.0.0",
-  "description": "Find the full list of INSPIRE polygon file names",
+  "description": "Scrape the full list of INSPIRE polygon file names, for great good",
   "main": "index.js",
   "bin": {
     "inspire-polygon-list": "bin.js"
@@ -9,10 +9,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "olizilla",
   "license": "AGPL-3.0",
   "dependencies": {
     "cheerio": "^0.22.0",
     "minimist": "^1.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olizilla/inspire-polygon-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olizilla/inspire-polygon-list/issues"
+  },
+  "homepage": "https://github.com/olizilla/inspire-polygon-list#readme"
 }
