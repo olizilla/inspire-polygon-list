@@ -23,6 +23,10 @@ From the list you could then use `wget` or similar to download them all.
 
 ```sh
 wget $(inspire-polygon-list)
+
+FINISHED --2016-12-12 16:32:29--
+Total wall clock time: 11m 36s
+Downloaded: 348 files, 4.4G in 10m 50s (6.90 MB/s)
 ```
 
 If you're a fan of copy'n'pasting, then https://github.com/olizilla/inspire-polygon-list/blob/master/urls.txt
